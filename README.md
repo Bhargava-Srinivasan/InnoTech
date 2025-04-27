@@ -69,6 +69,8 @@ Features such as personalized profiles, content tagging, comments, and resource 
 ![image](https://github.com/user-attachments/assets/4299a904-40f3-49fa-ac6a-5588d4392e0e)
 ![image](https://github.com/user-attachments/assets/5da0340a-8404-4fbf-9f43-f6118fca046f)
 ![image](https://github.com/user-attachments/assets/916887c5-d2f9-4c3f-ab8d-94bebc869c9e)
+![image](https://github.com/user-attachments/assets/e4cc8cd9-d3e4-4ffa-9cd5-c766201282f6)
+
 
 ---
 
