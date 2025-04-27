@@ -1,0 +1,99 @@
+/* Main container for the login/signup page */
+.login-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 10vh;
+  background: linear-gradient(135deg, #a8edea, #fed6e3);
+  padding: 20px;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Heading style for both login and signup */
+.login-page h2 {
+  font-size: 2.5rem;
+  margin-bottom: 30px; /* Increased spacing for better separation */
+  color: #333;
+  font-weight: 600;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+/* Form styling for both login and signup */
+.login-form {
+  background: white;
+  padding: 10px 40px;
+  border-radius: 15px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 450px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Input field styles with transitions */
+.input-field {
+  padding: 12px 15px;
+  margin-bottom: 15px; /* Adjusted for uniform spacing */
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+  background-color: #f9f9f9;
+  transition: border-color 0.3s ease-in-out;
+  width: 100%; /* Ensuring inputs take full width */
+}
+
+/* Focused input field with smooth border color transition */
+.input-field:focus {
+  border-color: #66a6ff;
+  outline: none;
+}
+
+/* Submit button with gradient effect and hover state */
+.submit-button {
+  padding: 12px 20px;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.3s ease;
+  width: 100%; /* Ensure button spans the width */
+}
+
+/* Hover effect for submit button */
+.submit-button:hover {
+  background: linear-gradient(135deg, #5a67d8, #6b46c1);
+}
+
+/* Error or success message styles */
+.message {
+  margin-top: 20px;
+  color: red;
+  text-align: center;
+  font-size: 1rem;
+}
+
+/* Back button styles, for navigating to previous page or login */
+.back-button {
+  margin-top: 10px;
+  background: transparent;
+  color: #667eea;
+  font-size: 1rem;
+  border: none;
+  cursor: pointer;
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+/* Hover effect for the back button */
+.back-button:hover {
+  color: #5a67d8;
+}
+
+
+

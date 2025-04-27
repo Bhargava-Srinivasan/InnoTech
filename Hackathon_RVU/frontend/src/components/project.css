@@ -1,0 +1,51 @@
+/* src/components/project.css */
+.projects-page {
+  padding: 20px;
+}
+
+.create-project-form {
+  margin-bottom: 20px;
+}
+
+.create-project-form input,
+.create-project-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.projects-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.project-card {
+  padding: 15px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.error {
+  color: red;
+}
+
+.success {
+  color: green;
+}
