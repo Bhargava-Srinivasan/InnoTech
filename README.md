@@ -43,7 +43,8 @@ Features such as personalized profiles, content tagging, comments, and resource 
 - API endpoints for user registration and login
 - Team Collaborations for projects
 - Content tagging for user queries
-- ML algo for recommendations on best profiles and two-degree tries
+- ML algo for recommendations on best profiles and two-degree connections
+- Efficient name searching algorithm using Trie Data Structure
 - MongoDB database integration
 - Clean and modern frontend UI
 
