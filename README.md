@@ -42,6 +42,8 @@ Features such as personalized profiles, content tagging, comments, and resource 
 - Secure password hashing with Bcrypt
 - API endpoints for user registration and login
 - Team Collaborations for projects
+- Create projects and add comments to projects
+- Collaborate with peers to work on a project
 - Content tagging for user queries
 - ML algo for recommendations on best profiles and two-degree connections
 - Efficient name searching algorithm using Trie Data Structure
