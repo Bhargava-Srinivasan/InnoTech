@@ -29,7 +29,7 @@ Features such as personalized profiles, content tagging, comments, and resource 
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js
-- **Backend:** Flask (Python) & Express (Node.js)
+- **Backend:**  Express (Node.js)
 - **Database:** MongoDB
 - **APIs/Testing:** Postman
 - **Authentication:** Bcrypt
