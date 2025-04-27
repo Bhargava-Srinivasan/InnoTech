@@ -38,7 +38,7 @@ Features such as personalized profiles, content tagging, comments, and resource 
 
 ## ✨ Features
 
-- User signup with file (image) upload
+- User signup with profile picture upload
 - Secure password hashing with Bcrypt
 - API endpoints for user registration and login
 - MongoDB database integration
