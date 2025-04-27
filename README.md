@@ -12,13 +12,13 @@ Across India, students and staff often struggle with the lack of a centralized p
 
 To address this gap, we have built a dynamic web application that empowers both students and educators to:
 
-Upload and showcase project ideas
+ - Upload and showcase project ideas
 
-Solve and discuss academic queries
+ - Solve and discuss academic queries
 
-Collaborate on ongoing work
+ - Collaborate on ongoing work
 
-Connect with peers and mentors based on shared interests
+ - Connect with peers and mentors based on shared interests
 
 Our platform is designed to foster a vibrant community where innovation thrives through collaboration.
 
