@@ -41,6 +41,9 @@ Features such as personalized profiles, content tagging, comments, and resource 
 - User signup with profile picture upload
 - Secure password hashing with Bcrypt
 - API endpoints for user registration and login
+- Team Collaborations for projects
+- Content tagging for user queries
+- ML algo for recommendations on best profiles and two-degree tries
 - MongoDB database integration
 - Clean and modern frontend UI
 
