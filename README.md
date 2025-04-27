@@ -1,6 +1,6 @@
-# InnoTech
+# 🚀 EduConnect
 
-## 🚀 Project Title
+Problem Statement: Students and staff across India lack a common platform to share projects, academic queries, and innovative ideas. Build a web/app based platform where students and educators can upload project ideas, solve queries, contribute to ongoing work, and connect over shared interests. The platform should support profiles, content tagging, comments, and resource sharing.
 
 A full-stack web application where users can create and manage their profiles, featuring image upload and secure authentication.
 
