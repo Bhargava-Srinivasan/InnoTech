@@ -36,6 +36,21 @@ Features such as personalized profiles, content tagging, comments, and resource 
 
 ---
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/2e73d957-c6e4-4708-89fd-b329b44669f4)
+![image](https://github.com/user-attachments/assets/239bc547-b68c-4add-9219-02966ee1be4a)
+![image](https://github.com/user-attachments/assets/c50e4b29-3785-4ad3-9b95-ab6ba1d6c42f)
+![image](https://github.com/user-attachments/assets/51244593-1540-4813-8d0a-5bc9c81d7f87)
+![image](https://github.com/user-attachments/assets/5bb7d32c-b42c-470b-8e5c-6b2ea85b5177)
+![image](https://github.com/user-attachments/assets/e047582f-4ea6-4bdb-94c8-bd8046136c91)
+![image](https://github.com/user-attachments/assets/d1e4821c-2b9b-4027-b7a0-b37047c645ff)
+
+
+
+
+
+
 ## ✨ Features
 
 - User signup and creation of profile in backend
