@@ -38,12 +38,14 @@ Features such as personalized profiles, content tagging, comments, and resource 
 
 ## ✨ Features
 
-- User signup with profile picture upload
+- User signup and creation of profile in backend
 - Secure password hashing with Bcrypt
 - API endpoints for user registration and login
 - Team Collaborations for projects
 - Create projects and add comments to projects
 - Collaborate with peers to work on a project
+- Follow people with similar interests
+- Manage projects using an interactive dashboard
 - Content tagging for user queries
 - ML algo for recommendations on best profiles and two-degree connections
 - Efficient name searching algorithm using Trie Data Structure
