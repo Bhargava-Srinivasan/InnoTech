@@ -1,20 +1,28 @@
 # 🚀 EduConnect
 
-Problem Statement: Students and staff across India lack a common platform to share projects, academic queries, and innovative ideas. Build a web/app based platform where students and educators can upload project ideas, solve queries, contribute to ongoing work, and connect over shared interests. The platform should support profiles, content tagging, comments, and resource sharing.
+Empowering Innovation Through Collaboration
 
-A full-stack web application where users can create and manage their profiles, featuring image upload and secure authentication.
+Join thousands of students and educators sharing projects, solving queries, and building ideas together.
 
 ---
 
 ## 📖 Description
 
-This project is a complete web app built with a React.js frontend, Flask and Express.js backend servers, MongoDB database, and authentication using Bcrypt. Postman was used for API development and testing.
+Across India, students and staff often struggle with the lack of a centralized platform where they can share innovative projects, solve academic queries, and collaborate on groundbreaking ideas.
 
-Users can:
-- Sign up with profile details
-- Upload a profile picture
-- Log in securely
-- View and edit their profiles
+To address this gap, we have built a dynamic web application that empowers both students and educators to:
+
+Upload and showcase project ideas
+
+Solve and discuss academic queries
+
+Collaborate on ongoing work
+
+Connect with peers and mentors based on shared interests
+
+Our platform is designed to foster a vibrant community where innovation thrives through collaboration.
+
+Features such as personalized profiles, content tagging, comments, and resource sharing make it easy for users to contribute meaningfully and build impactful networks.
 
 ---
 
